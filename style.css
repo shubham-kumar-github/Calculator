@@ -1,0 +1,42 @@
+.container {
+    width: 200px;
+    margin: 0 auto;
+    padding: 60px;
+    padding-right: 80px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: rgb(229, 227, 204);
+    text-align: center;
+  }
+  .container input {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  .container input[type="text"] {
+    padding: 10px;
+  }
+  .container input[type="button"] {
+    
+    background-color: #26ce80;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+
+  .box{
+    padding-top: 100px;
+  }
+
+  .op{
+    padding-bottom: 10px;
+  }
+
+  .calci{
+    padding-left: 20px;
+  }
+
+  select{
+    font-size: 20px;
+    padding: 5px;
+  }
